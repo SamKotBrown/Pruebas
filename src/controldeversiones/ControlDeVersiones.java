@@ -16,10 +16,9 @@ public class ControlDeVersiones {
      */
     public static void main(String[] args) {
     // TODO code application logic here
-        System.out.println("1");
         System.out.println("h");
         System.out.println("o");
-        System.out.println("8");
+        System.out.println("l");
         System.out.println("a");
     }
     
